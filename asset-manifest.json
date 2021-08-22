@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/spence-landing-page/static/css/main.98688194.chunk.css",
+    "main.js": "/spence-landing-page/static/js/main.79b8bead.chunk.js",
+    "main.js.map": "/spence-landing-page/static/js/main.79b8bead.chunk.js.map",
+    "runtime-main.js": "/spence-landing-page/static/js/runtime-main.d19cc3e5.js",
+    "runtime-main.js.map": "/spence-landing-page/static/js/runtime-main.d19cc3e5.js.map",
+    "static/js/2.e9507dbd.chunk.js": "/spence-landing-page/static/js/2.e9507dbd.chunk.js",
+    "static/js/2.e9507dbd.chunk.js.map": "/spence-landing-page/static/js/2.e9507dbd.chunk.js.map",
+    "index.html": "/spence-landing-page/index.html",
+    "static/css/main.98688194.chunk.css.map": "/spence-landing-page/static/css/main.98688194.chunk.css.map",
+    "static/js/2.e9507dbd.chunk.js.LICENSE.txt": "/spence-landing-page/static/js/2.e9507dbd.chunk.js.LICENSE.txt",
+    "static/media/checkmark.66aad624.svg": "/spence-landing-page/static/media/checkmark.66aad624.svg",
+    "static/media/styles.scss": "/spence-landing-page/static/media/escrow-tablet.729e2a9b.png",
+    "static/media/hero-image-desktop.08c024d7.png": "/spence-landing-page/static/media/hero-image-desktop.08c024d7.png",
+    "static/media/hero-image-mobile.b99335f9.png": "/spence-landing-page/static/media/hero-image-mobile.b99335f9.png",
+    "static/media/hero-image-tablet.3a725bb2.png": "/spence-landing-page/static/media/hero-image-tablet.3a725bb2.png",
+    "static/media/mobile-menu.c4da44b0.svg": "/spence-landing-page/static/media/mobile-menu.c4da44b0.svg",
+    "static/media/text-editor.c48b1855.png": "/spence-landing-page/static/media/text-editor.c48b1855.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d19cc3e5.js",
+    "static/js/2.e9507dbd.chunk.js",
+    "static/css/main.98688194.chunk.css",
+    "static/js/main.79b8bead.chunk.js"
+  ]
+}
